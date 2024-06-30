@@ -1,6 +1,0 @@
-cv2
-time
-os
-random
-numpy
-dlib
